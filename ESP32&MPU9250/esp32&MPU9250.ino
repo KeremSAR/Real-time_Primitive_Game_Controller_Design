@@ -2,8 +2,7 @@
 #include <WiFi.h>
 #include "AsyncUDP.h"
  
-//const char *ssid = "SUPERONLINE_WiFi_5463";
-//const char *password = "DEtXuRpPzKCk";
+
 const char *ssid = "keremHost";
 const char *password = "19982010";
 //const char *ssid = "Redmi9";
